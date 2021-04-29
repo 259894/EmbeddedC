@@ -4,4 +4,4 @@
 void config_timer(void);
 void pwm_output(void);
 
-#endi
+#endif
