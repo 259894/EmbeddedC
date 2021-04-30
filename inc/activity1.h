@@ -1,6 +1,6 @@
 /**
  * @file activity1.h
- * @author Annappa (annappa211@gmail.com)
+ * @author Varshini H (varshapatelr9@gmail.com)
  * @brief activity1-header file
  * @version 0.1
  * @date 2021-04-30
