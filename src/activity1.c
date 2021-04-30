@@ -1,3 +1,13 @@
+/**
+ * @file activity1.c
+ * @author Varshini H (varshapatelr9@gmail.com)
+ * @brief INITIALISE PORTS
+ * @version 0.1
+ * @date 2021-04-30
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
 #include <avr/io.h>
 #include "activity1.h"
 
