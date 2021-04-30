@@ -1,6 +1,6 @@
 /**
  * @file activity3.c
- * @author Annappa M (annappa211@gmail.com)
+ * @author Varshini H (varshapatelr9@gmail.com)
  * @brief Generate the PWM signals and visualise it in CRO
  * @version 0.1
  * @date 2021-04-30
